@@ -13,8 +13,7 @@ This project focuses on predicting Parkinson's disease using machine learning, s
 The dataset used for this project contains features related to the acoustic properties of voice recordings, which are relevant for diagnosing Parkinson's disease. It includes various attributes that help in distinguishing between individuals with and without the disease.
 
 **Dataset Link:** [Parkinson's Disease Dataset](https://www.kaggle.com/code/naveenkumar20bps1137/parkinson-s-disease-detection-using-ml-algorithms/input)
-
-_Note: Replace the placeholder link with the actual URL of your dataset._
+ 
 
 ## Methodology
 
